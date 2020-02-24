@@ -15,7 +15,7 @@ public class EnvControllerTest {
             "12G",
             "34",
             "123.sesame.street"
-        );
+                );
 
         Map<String, String> env = controller.getEnv();
 
